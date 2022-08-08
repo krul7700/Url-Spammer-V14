@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/umutxyp/Discord-Vanity-URL-Sniper.git"
+        "url": "git+https://github.com/krul7700/Url-Spammer-V14.git"
     },
     "author": "umutxyp",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/umutxyp/Discord-Vanity-URL-Sniper/issues"
+        "url": "https://github.com/krul7700/Url-Spammer-V14/issues"
     },
-    "homepage": "https://github.com/umutxyp/Discord-Vanity-URL-Sniper#readme",
+    "homepage": "https://github.com/krul7700/Url-Spammer-V14#readme",
     "dependencies": {
         "discord.js": "^14.0.3",
         "fs": "^0.0.1-security",
